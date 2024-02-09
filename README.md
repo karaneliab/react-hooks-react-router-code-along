@@ -97,7 +97,7 @@ function Home() {
   );
 }
 
-// Step 2. Use <Route> components to define client-side routes in our app
+// Step 2. Use <Ro
 function App() {
   return (
     <Route path="/">
